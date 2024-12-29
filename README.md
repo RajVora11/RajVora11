@@ -26,6 +26,4 @@
 ---
 
 ### 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinitvyas&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jinitvyas&theme=tokyonight" alt="mystreak"/>
 
