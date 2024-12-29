@@ -1,77 +1,37 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" align="center" style="width: 100%" />
-</div>  
-  
+<h1 align="center">Hi 👋, I'm Raj Vora</h1>
+<h3 align="center">A passionate Data Analyst and Business Analyst enthusiast with focus on analysis.</h3>
 
-### <div align="center">Hi 👋, I'm Raj Vora</div>  
-  
-
-- 💻A passionate Data Analyst and Business Analyst enthusiast with focus on analysis.  
-  
-
-<br/>  
+---
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="90%">
+---
+
+---
+
+### 🚀 Tech Stack:
+
+#### 🧠 Artificial Intelligence & Machine Learning:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB3ElEQVQ4T61Ty09bQRh+5ieqlrZdPkFJ02VUGgu9FQvQP+BoKLlI+iG8WNodFFpwaK/4FZoU0P4oXSRlFDXUiH0lRdNloW6djbc2uSl7PLs7MBvZY4U/x+UeA43vhj6zJyfOeX5hUs2AE2AnfxInCi9jKRI4ACoB5MAsohWYL8RJPi+AEbQQMJQMoAiMD+bRdYZALZDvPiALUAl4J7HAY1qkG1QMsE/DUa5EcGPZAybF8qwepJdxMhD/MsoON5ANaQOdgJ3ATXFSRAuEhdDqST4DHwH3B/WA1MQAyYXccgNvZBYGTsfX5CEcwSwfTYLFPgWdBNZGxdQLgTj8HOSBuPAFuIW9QHUQl4LJnhNYYuyDdiwDxhE9bHXheM9dWkA9gIZR2D1XGKbVV9QNfCY1dP1YLswCGNUPZQHwwLOJwZBDXAuvDsCPXz2eIeMueU57KslSr5rRft8oG4k5WhV2lvVc4Zm8gYVo8WRHJ3+BJlBq+aXj2+eJAHI5dFLXxOH/TWqlwJzgR4JPuFgD7OuyBM+ozURp7MG41jy5m0tFdcAxPmPxXmCN7tBMo8wr1khcmImkCWyZ2/UczlOH8DzSRpvcRMie+kfU/ewl9kvFnAAAAAElFTkSuQmCC&logoColor=white&style=flat)
 
 
-
-### Tech Stack:  
-<div align="center">Programming Skills:</div>  
-  
-
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" /></a>  
-</div>  
-
-<div align="center">Visualization Tools:</div>  
-  
-
-<div align="center">  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-</div>  
-
-<div align="center">Database:</div>  
-  
-
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>  
-
-<div align="center">Cloud & DevOps:</div>  
-  
-
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+#### 🖥️ Backend Development:
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 
 
-
-</td></tr></table>  
-
-<br/>  
+#### ☁️ Cloud & DevOps:
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
 
-## Connect with me  
-<a href="https://github.com/https://github.com/RajVora11" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-vora-rvrv/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+---
 
-<br/>  
+### 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jinitvyas&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jinitvyas&theme=tokyonight" alt="mystreak"/>
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
