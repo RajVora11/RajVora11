@@ -6,6 +6,10 @@
 <h3 align="center">A passionate Data Analyst and Business Analyst enthusiast with a focus on analysis.</h3>
 
 ---
+👨‍💻 About Me:
+- 💼 Check out my projects on [GitHub](https://github.com/rajvora11?tab=repositories).
+
+---
 
 ### 🚀 Tech Stack:
 
@@ -34,15 +38,12 @@
 #### ☁️ Cloud & DevOps:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
 
 ---
 
 ### 📋 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajvora11&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvora11&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajvora11&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajvora11&theme=tokyonight" alt="mystreak"/>
