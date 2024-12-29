@@ -18,7 +18,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 
-#### Visualization Tools::
+#### 📊Visualization Tools::
 
 
 #### ☁️ Cloud & DevOps:
