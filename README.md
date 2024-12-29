@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Vora</h1>
 <h3 align="center">A passionate Data Analyst and Business Analyst enthusiast with focus on analysis.</h3>
 
----
-
-
----
-
----
 
 ### 🚀 Tech Stack:
 
