@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raj Vora</h1>
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" align="center"></img>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="Welcome Animation">
+</p>
 
 <h3 align="center">A passionate Data Analyst and Business Analyst enthusiast with a focus on analysis.</h3>
 
@@ -28,7 +30,6 @@
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)
 
-
 #### ☁️ Cloud & DevOps:
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
@@ -38,9 +39,9 @@
 ### 📋 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajvora&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajvora&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvora&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvora&layout=compact&theme=radical" alt="Top Languages">
 </p>
